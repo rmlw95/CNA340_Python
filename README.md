@@ -1,14 +1,15 @@
-# Project Title
+# Chapter 4 Python Assignments
 
-One Paragraph of project description goes here
+A collection of the code I submitted for Chapter 4 Runestone exercises.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+This code will demonstrte basic coding projects.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+Requires Python to run, preferably with Py Charm, and a turtle module.
+
 
 ```
 sudo apt update
